@@ -71,7 +71,6 @@ public class Main {
              }
              else if(isWordSolved(wordToGuess, correctGuesses)){
                  System.out.println(GAME_STATE_PLAYER_WON);
-                 int a = 1213;
                  return;
              }
 
